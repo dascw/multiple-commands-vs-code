@@ -1,0 +1,6 @@
+{
+    "callBack": [
+        "editor.action.trimTrailingWhitespace",
+        "workbench.action.files.save"
+    ]
+}
