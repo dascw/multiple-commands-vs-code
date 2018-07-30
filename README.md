@@ -1,6 +1,6 @@
-# call-back
+# Multiple Commands for VS Code
 
-A simple extension for VS Code which allows mulitple commands to be binded to a single keyboard shortcut.
+A simple extension for VS Code which allows mulitple commands to be bound to a single keyboard shortcut.
 
 ## Features
 
@@ -23,8 +23,6 @@ The default commands in `'commands.json'` are `'editor.action.trimTrailingWhites
 - None
 
 ## Release Notes
-
-Users appreciate release notes as you update your extension.
 
 ### 0.0.1
 
